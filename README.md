@@ -1,6 +1,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sanjuli18&label=Profile%20views&color=0e75b6&style=flat" alt="sanjuli18" /> </p>
 
-- 👋 Hi, I’m Sanjuli Trivedi
+- 👋 Hi, I’m **Sanjuli Trivedi**
 
 - 👀 I’m interested in frontend development
 
